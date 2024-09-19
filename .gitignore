@@ -1,0 +1,11 @@
+# IDE configurations
+.vscode/
+
+# Environment variables
+.env
+
+# Data files
+data/*
+
+# Python bytecode
+*.pyc
